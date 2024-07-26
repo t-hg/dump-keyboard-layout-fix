@@ -1,0 +1,10 @@
+--- /usr/share/X11/xkb/symbols/ch.bak	2024-07-26 21:14:14.776300593 +0200
++++ /usr/share/X11/xkb/symbols/ch	2024-07-26 22:51:35.410229376 +0200
+@@ -30,6 +30,7 @@
+     key <AC10>	{[ odiaeresis,     eacute                           ]};
+     key <AC11>	{[ adiaeresis,     agrave,    braceleft             ]};
+     key <BKSL>	{[     dollar,   sterling,   braceright             ]};
++    key <RTRN>	{[     Return,     Return,   braceright             ]};
+ 
+     key <LSGT>	{[       less,    greater,    backslash,  brokenbar ]};
+     key <AB01>	{[          y,          Y                           ]};
